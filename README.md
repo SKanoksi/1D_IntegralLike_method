@@ -1,5 +1,5 @@
 # 1D_IntegralLike_method
-A unconventional approach for solving Burgers equation
+An unconventional approach for solving Burgers equation
 
 (Under submission)
 
